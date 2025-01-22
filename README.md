@@ -46,12 +46,15 @@ You'll need a significant amount of $ETH on Sepolia, as this testnet involves ba
    ```
    nano accounts/accounts.js
    ```
-4. Configure your bot configuration and proxy
+4. Configure your bot config
    ```
    nano config/config.js
+   ```
+5. Configure your proxy
+   ```
    nano config/proxy_list.js
    ```
-5. To start the app run
+6. To start the app run
    ```
    npm run start
    ```
