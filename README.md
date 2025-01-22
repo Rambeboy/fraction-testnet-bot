@@ -1,7 +1,8 @@
 ## FRACTION AI TESTNET BOT
 
 **Fraction AI Testnet**
-Reward : Potential Network : ETH Sepolia
+
+Potential Network : ETH Sepolia
 
 **Register** [Here](https://dapp.fractionai.xyz?referral=80735902)
 - Connect Wallet (New / BURNER)
