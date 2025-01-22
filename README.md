@@ -1,5 +1,22 @@
 ## FRACTION AI TESTNET BOT
 
+**Fraction AI Testnet**
+Reward : Potential Network : ETH Sepolia
+**Register** [Here](https://dapp.fractionai.xyz?referral=80735902)
+- Connect Wallet (New / BURNER)
+- Go to "Dashboard"
+- Go to "My Agent" Tab
+- Click "+ Create New Agent
+- Fill Starting Balance
+- Fill the System Prompt (You can Generate With AI)
+- Go to "My Agents"
+- Click "Enable Automation"
+- Done!
+
+Buy $ETH on Sepolia if need so much ETH Sepolia: [Here](https://testnetbridge.com/sepolia)
+
+You'll need a significant amount of $ETH on Sepolia, as this testnet involves battles that depend on your $ETH balance.
+
 ## PREREQUISITE
 
 - Git
