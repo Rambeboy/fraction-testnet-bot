@@ -5,10 +5,10 @@
 Potential Network : ETH Sepolia
 
 **Register** [Here](https://dapp.fractionai.xyz?referral=80735902)
-- Connect Wallet (New / BURNER)
+- Connect Wallet (New / Burner)
 - Go to "Dashboard"
 - Go to "My Agent" Tab
-- Click "+ Create New Agent
+- Click "+ Create New Agent"
 - Fill Starting Balance
 - Fill the System Prompt (You can Generate With AI)
 - Go to "My Agents"
